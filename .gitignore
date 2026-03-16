@@ -1,4 +1,11 @@
+# macOS
 .DS_Store
+# VSCode
 .vscode/
+# debug files
 *.dSYM/
-1
+# compiled files
+
+a.out
+*.out
+*.exe
