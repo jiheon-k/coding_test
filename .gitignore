@@ -9,3 +9,8 @@
 a.out
 *.out
 *.exe
+
+*
+!*.cpp
+!.gitignore
+
