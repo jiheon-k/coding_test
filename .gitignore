@@ -1,16 +1,22 @@
 # macOS
 .DS_Store
+
 # VSCode
 .vscode/
+
 # debug files
 *.dSYM/
-# compiled files
 
+# compiled files
 a.out
 *.out
 *.exe
 
+
 *
+
+#예외 -> cpp, 폴더 포함
 !*.cpp
+!**/*.cpp
 !.gitignore
 
